@@ -1,0 +1,2 @@
+# The Birch Effect
+The Birch effect is an ecological phenomenon in which dry climates, when experiencing a sudden increase in rainfall, see a marked increase in ecosystem respiration which is hard to model using traditional methods.
